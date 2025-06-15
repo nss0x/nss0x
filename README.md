@@ -1,7 +1,6 @@
 # 🧠 nss | Quant Dev ⚡ HFT Builder 🏹 CP Grinder
 
 🚀 B.Tech @ NIT Warangal | Obsessed with quant finance, low-latency trading, and clean C++  
-I break code until it runs at nanosecond speed.
 
 ---
 
@@ -18,6 +17,8 @@ I break code until it runs at nanosecond speed.
 ## 🧮 Stats That Matter
 
 ![nss's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evilghost9725&show_icons=true&theme=radical)  
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evilghost9725&layout=compact&theme=radical)
 
 ---
