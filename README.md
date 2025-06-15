@@ -14,7 +14,7 @@
 
 ---
 
-## 🧮 Stats That Matter
+## 🧮 Stats
 
 ![nss's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evilghost9725&show_icons=true&theme=radical)  
 
