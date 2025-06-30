@@ -30,7 +30,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nss.0411/)
 [![Twitter](https://img.shields.io/badge/X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/nitinsrisai05)
 
----
-
-⚡ Always building. Always learning.  
-💬 DM me if you want fast code, deep logic, or dangerously good ideas.
