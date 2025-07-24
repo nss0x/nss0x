@@ -16,10 +16,10 @@
 
 ## 🧮 Stats
 
-![nss's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evilghost9725&show_icons=true&theme=radical)  
+![nss's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nss0x&show_icons=true&theme=radical)  
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evilghost9725&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nss0x&layout=compact&theme=radical)
 
 ---
 
