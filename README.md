@@ -41,9 +41,9 @@ I'm a passionate **Software Developer & ECE Student** with a love for creating i
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nss0x&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nss0x&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
